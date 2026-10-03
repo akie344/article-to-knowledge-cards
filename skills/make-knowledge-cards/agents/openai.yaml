@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识卡片生成器"
+  short_description: "把文章转成5～8张知识卡片，每张含标题、核心知识、解释与例子或自测题"
+  default_prompt: "使用 $skill-name 把这篇文章或这个 Markdown/TXT 文件整理成知识卡片。"
